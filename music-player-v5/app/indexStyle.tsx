@@ -49,6 +49,12 @@ const styles = StyleSheet.create({
         padding:5,
         borderRadius:10,
         bottom:30
+    },
+    playFlex:{
+        display:'flex',
+        flexDirection:'row',
+        gap:10,
+        alignItems:'center'       
     }
 })
 
