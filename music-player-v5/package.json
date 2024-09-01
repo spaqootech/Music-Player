@@ -37,7 +37,8 @@
     "react-native-sound": "^0.11.2",
     "react-native-track-player": "^4.1.1",
     "react-native-web": "~0.19.10",
-    "shaka-player": "^4.10.13"
+    "shaka-player": "^4.10.13",
+    "twrnc": "^4.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
